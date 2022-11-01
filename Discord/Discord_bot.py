@@ -3,7 +3,7 @@ import AI_test
 import atexit
 from datetime import datetime
 
-from Token.DISCORD_KEY import DISCORD_KEY
+from Tokens.DISCORD_KEY import DISCORD_KEY
 
 DISCORD_TOKEN = DISCORD_KEY
 

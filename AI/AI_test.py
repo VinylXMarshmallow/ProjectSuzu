@@ -1,5 +1,5 @@
 import openai
-from Token.AI_API_KEY import AI_KEY
+from Tokens.AI_API_KEY import AI_KEY
 
 openai.api_key = AI_KEY
 
